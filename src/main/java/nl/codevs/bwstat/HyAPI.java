@@ -17,7 +17,6 @@
 
 package nl.codevs.bwstat;
 
-import
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
