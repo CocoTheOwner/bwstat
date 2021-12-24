@@ -17,6 +17,5 @@ public class BWStat
     {
 		// some example code
         System.out.println("DIRT BLOCK >> " + Blocks.dirt.getUnlocalizedName());
-        Minecraft.getMinecraft().theWorld.playerEntities.forEach(p -> System.out.println(p.getName()));
     }
 }
